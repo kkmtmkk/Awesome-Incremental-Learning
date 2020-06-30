@@ -32,7 +32,7 @@ to defy forgetting in classification tasks (**arXiv 2019**) [[paper](https://arx
 ## Papers
 ### 2020
 - <a name="todo"></a> XtarNet: Learning to Extract Task-Adaptive Representation
-for Incremental Few-Shot Learning (**ICLM2020**) [[paper](https://arxiv.org/pdf/2003.08561.pdf)]
+for Incremental Few-Shot Learning (**ICML2020**) [[paper](https://arxiv.org/pdf/2003.08561.pdf)]
 - <a name="todo"></a> Optimal Continual Learning has Perfect Memory and is NP-HARD (**ICML2020**) [[paper](https://arxiv.org/pdf/2006.05188.pdf)]
 - <a name="todo"></a> Neural Topic Modeling with Continual Lifelong Learning (**ICML2020**) [[paper](https://arxiv.org/pdf/2006.10909.pdf)]
 - <a name="todo"></a> Semantic Drift Compensation for Class-Incremental Learning (**CVPR2020**) [[paper](https://arxiv.org/pdf/2004.00440.pdf)] [[code](https://github.com/yulu0724/SDC-IL)]
