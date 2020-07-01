@@ -73,6 +73,7 @@ with Single-Side Overestimation (**ICCV2019**) [[paper](https://arxiv.org/pdf/19
 - <a name="todo"></a> Learning to Learn without Forgetting By Maximizing Transfer and Minimizing Interference (**ICLR2019**) [[paper](https://openreview.net/forum?id=B1gTShAct7)] [[code](https://github.com/mattriemer/mer)]
 - <a name="todo"></a> Overcoming Catastrophic Forgetting via Model Adaptation (**ICLR2019**) [[paper](https://openreview.net/forum?id=ryGvcoA5YX)] 
 - <a name="todo"></a> A comprehensive, application-oriented study of catastrophic forgetting in DNNs (**ICLR2019**) [[paper](https://openreview.net/forum?id=BkloRs0qK7)] 
+- <a name="todo"></a> Selfless Sequential Learning (**ICLR2019**) [[paper](https://arxiv.org/abs/1806.05421)] 
 - <a name="todo"></a> Incremental Learning Techniques for Semantic Segmentation (**ICCVW2019**) [[paper](https://arxiv.org/abs/1907.13372)] [[code](https://github.com/LTTM/IL-SemSegm)]
 
 ### 2018
