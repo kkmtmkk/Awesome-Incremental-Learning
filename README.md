@@ -31,6 +31,8 @@ to defy forgetting in classification tasks (**arXiv 2019**) [[paper](https://arx
  (**arXiv 2018**) [[paper](https://arxiv.org/abs/1802.07569)]
 ## Papers
 ### 2020
+- <a name="todo"></a> Bayesian Nonparametric Weight Factorization for Continual Learning
+ (**arxiv04**) [[paper](https://arxiv.org/abs/2004.10098)]
 - <a name="todo"></a> XtarNet: Learning to Extract Task-Adaptive Representation
 for Incremental Few-Shot Learning (**ICML2020**) [[paper](https://arxiv.org/pdf/2003.08561.pdf)]
 - <a name="todo"></a> Optimal Continual Learning has Perfect Memory and is NP-HARD (**ICML2020**) [[paper](https://arxiv.org/pdf/2006.05188.pdf)]
