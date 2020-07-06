@@ -30,9 +30,24 @@ to defy forgetting in classification tasks (**arXiv 2019**) [[paper](https://arx
 - <a name="todo"></a> Continual Lifelong Learning with Neural Networks: A Review
  (**arXiv 2018**) [[paper](https://arxiv.org/abs/1802.07569)]
 ## Papers
-### 2020
+### arxiv
+- <a name="todo"></a> Few-Shot Class-Incremental Learning via Feature Space Composition
+ (**2020**) [[paper](https://arxiv.org/abs/2006.15524)]
+- <a name="todo"></a> Understanding Regularisation Methods for Continual Learning
+ (**2020**) [[paper](https://arxiv.org/abs/2006.06357)]
+- <a name="todo"></a> Self-Supervised Learning Aided Class-Incremental Lifelong Learning
+ (**2020**) [[paper](https://arxiv.org/abs/2006.05882)]
+- <a name="todo"></a> BI-MAML- Balanced Incremental Approach for meta learning
+ (**2020**) [[paper](https://arxiv.org/abs/2006.07412)]
+- <a name="todo"></a> Automatic Recall Machines-Internal Replay, Continual Learning and the Brain
+ (**2020**) [[paper](https://arxiv.org/abs/2006.12323)]
+- <a name="todo"></a> Insights from the Future for Continual Learning
+ (**2020**) [[paper](https://arxiv.org/abs/2006.13748)]
 - <a name="todo"></a> Bayesian Nonparametric Weight Factorization for Continual Learning
- (**arxiv04**) [[paper](https://arxiv.org/abs/2004.10098)]
+ (**2020**) [[paper](https://arxiv.org/abs/2004.10098)]
+ - <a name="todo"></a> Continual Learning with Self-Organized Curriculum
+ (**2019**) [[paper](https://arxiv.org/abs/1904.09330)]
+### 2020
 - <a name="todo"></a> XtarNet: Learning to Extract Task-Adaptive Representation
 for Incremental Few-Shot Learning (**ICML2020**) [[paper](https://arxiv.org/pdf/2003.08561.pdf)]
 - <a name="todo"></a> Optimal Continual Learning has Perfect Memory and is NP-HARD (**ICML2020**) [[paper](https://arxiv.org/pdf/2006.05188.pdf)]
@@ -48,6 +63,7 @@ for Incremental Few-Shot Learning (**ICML2020**) [[paper](https://arxiv.org/pdf/
  (**CVPR2020**) [[paper](https://arxiv.org/abs/2004.07507)]
 - <a name="todo"></a> iTAML : An Incremental Task-Agnostic Meta-learning Approach (**CVPR2020**) [[paper](https://arxiv.org/pdf/2003.11652.pdf)] [[code](https://github.com/brjathu/iTAML)]
 - <a name="todo"></a> Mnemonics Training: Multi-Class Incremental Learning without Forgetting (**CVPR2020**) [[paper](https://arxiv.org/pdf/2002.10211.pdf)] [[code](https://github.com/yaoyao-liu/mnemonics)]
+- <a name="todo"></a> A Neural Dirichlet Process Mixture Model for Task-Free Continual Learning (**ICLR2020**) [[paper](https://arxiv.org/abs/2001.00689)] 
 - <a name="todo"></a> Accepted papers(**ICLR2020**) [[paper](https://docs.google.com/presentation/d/17s5Y8N9dypH-59tuwKaCp80NYBxTmtT6V-zOFlsH-SA/edit?usp=sharing)]
 ### 2019
 - <a name="todo"></a> Compacting, Picking and Growing for Unforgetting Continual Learning (**NeurIPS2019**)[[paper](https://papers.nips.cc/paper/9518-compacting-picking-and-growing-for-unforgetting-continual-learning.pdf)][[code](https://github.com/ivclab/CPG)]
@@ -60,6 +76,7 @@ for Incremental Few-Shot Learning (**ICML2020**) [[paper](https://arxiv.org/pdf/
 - <a name="todo"></a> Adaptive Deep Models for Incremental Learning: Considering Capacity Scalability and Sustainability (**KDD2019**) [[paper](http://www.lamda.nju.edu.cn/yangy/KDD19.pdf)]
 - <a name="todo"></a> Random Path Selection for Incremental Learning (**NeurIPS2019**) [[paper](https://arxiv.org/pdf/1906.01120.pdf)]
 - <a name="todo"></a> Online Continual Learning with Maximal Interfered Retrieval (**NeurIPS2019**) [[paper](http://papers.neurips.cc/paper/9357-online-continual-learning-with-maximal-interfered-retrieval)]
+- <a name="todo"></a> Continual Unsupervised Representation Learning (**NeurIPS2019**) [[paper](https://arxiv.org/abs/1910.14481)]
 - <a name="todo"></a> Overcoming Catastrophic Forgetting with Unlabeled Data in the Wild (**ICCV2019**) [[paper](https://arxiv.org/pdf/1903.12648.pdf)]
 - <a name="todo"></a> Continual Learning by Asymmetric Loss Approximation
 with Single-Side Overestimation (**ICCV2019**) [[paper](https://arxiv.org/pdf/1908.02984.pdf)]
