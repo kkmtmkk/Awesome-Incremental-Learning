@@ -47,6 +47,8 @@ to defy forgetting in classification tasks (**arXiv 2019**) [[paper](https://arx
  (**2020**) [[paper](https://arxiv.org/abs/2004.10098)]
  - <a name="todo"></a> Continual Learning with Self-Organized Curriculum
  (**2019**) [[paper](https://arxiv.org/abs/1904.09330)]
+- <a name="todo"></a> Online continual learning with no task boundaries
+ (**2019**) [[paper](https://arxiv.org/abs/1903.08671v1)]
 ### 2020
 - <a name="todo"></a> XtarNet: Learning to Extract Task-Adaptive Representation
 for Incremental Few-Shot Learning (**ICML2020**) [[paper](https://arxiv.org/pdf/2003.08561.pdf)]
