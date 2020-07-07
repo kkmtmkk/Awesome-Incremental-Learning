@@ -66,6 +66,7 @@ for Incremental Few-Shot Learning (**ICML2020**) [[paper](https://arxiv.org/pdf/
 - <a name="todo"></a> A Neural Dirichlet Process Mixture Model for Task-Free Continual Learning (**ICLR2020**) [[paper](https://arxiv.org/abs/2001.00689)] 
 - <a name="todo"></a> Accepted papers(**ICLR2020**) [[paper](https://docs.google.com/presentation/d/17s5Y8N9dypH-59tuwKaCp80NYBxTmtT6V-zOFlsH-SA/edit?usp=sharing)]
 ### 2019
+- <a name="todo"></a> Gradient based sample selection for online continual learning (**NeurIPS2019**)[[https://arxiv.org/abs/1903.08671)][[code](https://github.com/rahafaljundi/Gradient-based-Sample-Selection)]
 - <a name="todo"></a> Compacting, Picking and Growing for Unforgetting Continual Learning (**NeurIPS2019**)[[paper](https://papers.nips.cc/paper/9518-compacting-picking-and-growing-for-unforgetting-continual-learning.pdf)][[code](https://github.com/ivclab/CPG)]
 - <a name="todo"></a> Increasingly Packing Multiple Facial-Informatics Modules in A Unified Deep-Learning Model via Lifelong Learning (**ICMR2019**) [[paper](https://dl.acm.org/doi/10.1145/3323873.3325053)][[code](https://github.com/ivclab/PAE)]
 - <a name="todo"></a> Towards Training Recurrent Neural Networks for Lifelong Learning (**Neural Computation 2019**) [[paper](https://arxiv.org/pdf/1811.07017.pdf)]
