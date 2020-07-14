@@ -31,6 +31,8 @@ to defy forgetting in classification tasks (**arXiv 2019**) [[paper](https://arx
  (**arXiv 2018**) [[paper](https://arxiv.org/abs/1802.07569)]
 ## Papers
 ### arxiv
+- <a name="todo"></a> Understanding the Role of Training Regimes in Continual Learning
+ (**2020**) [[paper](https://arxiv.org/pdf/2006.06958v1.pdf)][[code](https://github.com/imirzadeh/stable-continual-learning)]
 - <a name="todo"></a> Few-Shot Class-Incremental Learning via Feature Space Composition
  (**2020**) [[paper](https://arxiv.org/abs/2006.15524)]
 - <a name="todo"></a> Understanding Regularisation Methods for Continual Learning
