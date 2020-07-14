@@ -59,7 +59,7 @@ for Incremental Few-Shot Learning (**ICML2020**) [[paper](https://arxiv.org/pdf/
 - <a name="todo"></a> Modeling the Background for Incremental Learning in Semantic Segmentation (**CVPR2020**) [[paper](https://arxiv.org/pdf/2002.00718.pdf)]
 - <a name="todo"></a> Incremental Few-Shot Object Detection (**CVPR2020**) [[paper](https://arxiv.org/pdf/2003.04668.pdf)]
 - <a name="todo"></a> Incremental Learning In Online Scenario (**CVPR2020**) [[paper](https://arxiv.org/pdf/2003.13191.pdf)]
-- <a name="todo"></a> Maintaining Discrimination and Fairness in Class Incremental Learning (**CVPR2020**) [[paper](https://arxiv.org/pdf/1911.07053.pdf)]
+- <a name="todo"></a> Maintaining Discrimination and Fairness in Class Incremental Learning (**CVPR2020**) [[paper](https://arxiv.org/pdf/1911.07053.pdf)][[code](https://github.com/hugoycj/Incremental-Learning-with-Weight-Aligning)]
 - <a name="todo"></a> Conditional Channel Gated Networks for Task-Aware Continual Learning (**CVPR2020**) [[paper](https://arxiv.org/pdf/2004.00070.pdf)]
 - <a name="todo"></a> Continual Learning with Extended Kronecker-factored Approximate Curvature
  (**CVPR2020**) [[paper](https://arxiv.org/abs/2004.07507)]
