@@ -67,6 +67,7 @@ for Incremental Few-Shot Learning (**ICML2020**) [[paper](https://arxiv.org/pdf/
  (**CVPR2020**) [[paper](https://arxiv.org/abs/2004.07507)]
 - <a name="todo"></a> iTAML : An Incremental Task-Agnostic Meta-learning Approach (**CVPR2020**) [[paper](https://arxiv.org/pdf/2003.11652.pdf)] [[code](https://github.com/brjathu/iTAML)]
 - <a name="todo"></a> Mnemonics Training: Multi-Class Incremental Learning without Forgetting (**CVPR2020**) [[paper](https://arxiv.org/pdf/2002.10211.pdf)] [[code](https://github.com/yaoyao-liu/mnemonics)]
+- <a name="todo"></a> Towards Lifelong Self-Supervision For Unpaired Image-to-Image Translation (**CVPRW2020**) [[paper](https://arxiv.org/pdf/2004.00161.pdf)] [[code](https://github.com/vict0rsch/LiSS)]
 - <a name="todo"></a> A Neural Dirichlet Process Mixture Model for Task-Free Continual Learning (**ICLR2020**) [[paper](https://arxiv.org/abs/2001.00689)] 
 - <a name="todo"></a> Accepted papers(**ICLR2020**) [[paper](https://docs.google.com/presentation/d/17s5Y8N9dypH-59tuwKaCp80NYBxTmtT6V-zOFlsH-SA/edit?usp=sharing)]
 ### 2019
