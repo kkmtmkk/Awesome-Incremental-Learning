@@ -65,6 +65,14 @@ to defy forgetting in classification tasks (**arXiv 2019**) [[paper](https://arx
  - <a name="todo"></a> Bayesian Structure Adaptation for Continual Learning
  (**2019**) [[paper](https://arxiv.org/abs/1912.03624)]
 ### 2020
+- <a name="todo"></a> Calibrating CNNs for Lifelong Learning (**NeurIPS2020**)
+- <a name="todo"></a> Lifelong Policy Gradient Learning of Factored Policies for Faster Training Without Forgetting(**NeurIPS2020**) [[paper](https://arxiv.org/pdf/2007.07011.pdf] 
+- <a name="todo"></a> Continual Learning of a Sequence of Mixed Tasks (**NeurIPS2020**)
+- <a name="todo"></a> Continual Learning in Low-rank Orthogonal Subspaces (**NeurIPS2020**)
+- <a name="todo"></a> Organizing recurrent network dynamics by task-computation to enable continual learning (**NeurIPS2020**)
+- <a name="todo"></a> Look-ahead Meta Learning for Continual Learning(**NeurIPS2020**) [[paper](https://arxiv.org/pdf/2007.13904.pdf] 
+- <a name="todo"></a> Mitigating Forgetting in Online Continual Learning via Instance-Aware Parameterization (**NeurIPS2020**)
+- <a name="todo"></a> Supermasks in Superposition for Continual Learning (**NeurIPS2020**) [[paper](https://arxiv.org/pdf/2006.14769v2.pdf] 
 - <a name="todo"></a> Meta-Consolidation for Continual Learning (**NeurIPS2020**) [[paper](https://arxiv.org/abs/2010.00352?context=cs)] 
 - <a name="todo"></a> Understanding the Role of Training Regimes in Continual Learning (**NeurIPS2020**) [[paper](https://arxiv.org/pdf/2006.06958.pdf)] 
 - <a name="todo"></a> Continual Learning with Node-Importance based Adaptive Group Sparse Regularization (**NeurIPS2020**) [[paper](https://arxiv.org/pdf/2003.13726.pdf)] 
@@ -74,6 +82,7 @@ to defy forgetting in classification tasks (**arXiv 2019**) [[paper](https://arx
 - <a name="todo"></a> Continual Deep Learning by Functional Regularisation of Memorable Past (**NeurIPS2020**) [[paper](https://arxiv.org/pdf/2004.14070.pdf)] 
 - <a name="todo"></a> Dark Experience for General Continual Learning: a Strong, Simple Baseline (**NeurIPS2020**) [[paper](https://arxiv.org/pdf/2004.07211.pdf)] 
 - <a name="todo"></a> GAN Memory with No Forgetting (**NeurIPS2020**) [[paper](https://arxiv.org/pdf/2006.07543.pdf)] 
+
 - <a name="todo"></a> Brain-inspired replay for continual learning with artificial neural networks (**Nature Communications 2020**) [[paper](https://www.nature.com/articles/s41467-020-17866-2)] [[code](https://github.com/GMvandeVen/brain-inspired-replay)]
 - <a name="todo"></a> REMIND Your Neural Network to Prevent Catastrophic Forgetting (**ECCV2020**) [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530460.pdf)]  [[code](https://github.com/tyler-hayes/REMIND)]
 - <a name="todo"></a> Adversarial Continual Learning (**ECCV2020**) [[paper](https://arxiv.org/abs/2003.09553)]  [[code](https://github.com/facebookresearch/Adversarial-Continual-Learning)]
