@@ -25,6 +25,10 @@ Being aware of different training and test settings.
 #### [Lifelong Robotic Vision Challenge IROS 2019](https://lifelong-robotic-vision.github.io)
 #### [Continual Learning in Computer Vision Challenge CVPR 2020](https://sites.google.com/view/clvision2020/challenge?authuser=0)
 
+## Book
+- <a name="todo"></a> Lifelong Machine Learning, Second Edition (**Morgan & Claypool Publishers**) [[paper](https://www.morganclaypool.com/doi/10.2200/S00832ED1V01Y201802AIM037)]
+
+
 ## Survey
 - <a name="todo"></a> Continual learning: A comparative study on how
 to defy forgetting in classification tasks (**arXiv 2019**) [[paper](https://arxiv.org/pdf/1909.08383.pdf)]
