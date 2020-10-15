@@ -1,7 +1,5 @@
 # Awesome Incremental Learning / Lifelong learning
 
-## Feel free to contact me if you find any interesting paper is missing.
-
 ## ContinualAI wiki
 
 #### [An Open Community of Researchers and Enthusiasts on Continual/Lifelong Learning for AI](https://www.continualai.org/)
